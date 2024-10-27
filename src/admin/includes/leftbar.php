@@ -6,7 +6,7 @@
 		<li><a href="manage-employees.php"><i class="fa fa-user"></i> Quản Lý Nhân Viên</a></li>
 		<li><a href="manage-fields.php"><i class="fa fa-user"></i> Quản Lý Sân</a></li>
 
-		<li><a href="#"><i class="fa fa-car"></i> Lịch Thi Đấu</a>
+		<li><a href="#"><i class="fa fa-car"></i> Trận Đấu</a>
 			<ul>
 				<li><a href="manage-referees.php">Giao NV Trọng Tài</a></li>
 				<li><a href="manage-match-status.php">Trạng Thái</a></li>
